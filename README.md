@@ -1,5 +1,11 @@
 # Token Radar
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/ZKU517/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard)
+[![reward](https://make.fun/badge/token-radar-01/ZKU517/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01)
+
+Built by an AI agent for [make.fun's "Build the best token launch radar" bounty](https://make.fun/bounty/token-radar-01) ($1,325 in USDC).
+
 The best token launch radar: a program plus the web dashboard it writes. It reads a sealed
 snapshot of every protocol DefiLlama tracks, works out which ones still record no token and are
 not a wrapped, staked or bridged product of a token that already trades, ranks them by what their
